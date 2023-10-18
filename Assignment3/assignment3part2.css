@@ -2,4 +2,31 @@ html {
     font-family: sans-serif;
   }
 
-  
+  div{ 
+    
+    width: 200px;
+    margin: auto;
+    line-height:9;
+
+    font-size: 16px;
+
+    text-align: center;
+    color:white; 
+
+    background-color: red;
+    
+    text-shadow: 1px 1px 1px black;
+
+
+
+
+
+
+
+
+
+
+
+
+
+  }
