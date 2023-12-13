@@ -50,7 +50,7 @@ html, body {
   /* || header layout */
   
   div[class="nav"], article, footer, .secondary {
-    background-color: green;
+    background-color: rgb(240, 244, 240);
   }
   
   article, footer, .secondary {
